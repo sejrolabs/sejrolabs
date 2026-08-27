@@ -12,8 +12,7 @@
 - 🔭 Actuellement en train de renforcer mes compétences en **Machine Learning, Deep Learning et IA générative**
 - 🌱 En apprentissage continu sur les architectures **NLP**, les **LLMs**, et les systèmes **RAG (Retrieval-Augmented Generation)**
 - 💡 Passionné par la construction de **chatbots intelligents** et d'applications IA concrètes
-- 📫 Comment me contacter : *[ton email pro ou LinkedIn ici]*
-- ⚡ Anecdote : *[une phrase perso, optionnel]*
+- 📫 Comment me contacter : *[sejro.boco.labs@gmail.com]*
 
 ---
 
