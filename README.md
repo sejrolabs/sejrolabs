@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 À propos de moi
-
+- Etudiant en dernière année de cycle d'ingénieur Data Scientist à l'ENSAI
 - 🔭 Actuellement en train de renforcer mes compétences en **Machine Learning, Deep Learning et IA générative**
 - 🌱 En apprentissage continu sur les architectures **NLP**, les **LLMs**, et les systèmes **RAG (Retrieval-Augmented Generation)**
 - 💡 Passionné par la construction de **chatbots intelligents** et d'applications IA concrètes
@@ -48,17 +48,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-</p>
-
----
-
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sejrolabs&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sejrolabs&theme=tokyonight" alt="streak" />
 </p>
 
 ---
