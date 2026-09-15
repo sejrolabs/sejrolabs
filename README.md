@@ -54,23 +54,12 @@
 
 ### 📊 Statistiques GitHub
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sejrolabs&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sejrolabs&theme=tokyonight" alt="streak" />
 </p>
-
----
-
-### 📌 Projets phares
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 🔗 [Nom du projet 1](#) | Description courte (ex. chatbot RAG sur documents PDF) | Python, LangChain, FAISS |
-| 🔗 [Nom du projet 2](#) | Description courte (ex. classification de texte NLP) | PyTorch, HuggingFace |
-| 🔗 [Nom du projet 3](#) | Description courte (ex. fine-tuning LLM) | Transformers, PEFT/LoRA |
 
 ---
 
@@ -81,4 +70,4 @@
   <a href="mailto:ton.email@pro.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐️ N'hésitez pas à explorer mes repos et à me contacter pour discuter IA, ML, ou opportunités !</i></p>
+<p align="center"><i>N'hésitez pas à explorer mes repos et à me contacter pour discuter IA, ML, ou opportunités !</i></p>
