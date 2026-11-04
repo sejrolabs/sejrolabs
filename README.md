@@ -101,10 +101,10 @@ An ongoing actuarial project focused on building a motor insurance pricing frame
 
 **ENSAI - National School for Statistics and Information Analysis**  
 Engineering Degree | 2024–2027  
-Specialization: Data Science — Marketing
+Specialization: Data Science - Marketing
 
 **ENEAM - National School of Applied Economics and Management**  
-Engineering Degree in Statistics and Economics | 2022–2025
+Engineering Degree in Statistics and Economics | 2022-2025
 
 ---
 
