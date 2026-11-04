@@ -68,7 +68,7 @@ Built machine learning models to identify fraudulent transactions in a highly im
 
 [View project on GitHub](PROJECT_REPOSITORY_URL) - [Live demo](PROJECT_DEMO_URL)
 
-### 3. NLP Sentiment Analysis — IMDB Movie Reviews
+### 3. NLP Sentiment Analysis - IMDB Movie Reviews
 
 Developed a sentiment analysis pipeline to classify **50,000 IMDB movie reviews** as positive or negative.
 
@@ -83,7 +83,7 @@ Developed a sentiment analysis pipeline to classify **50,000 IMDB movie reviews*
 
 [View project on GitHub](PROJECT_REPOSITORY_URL) - [Live demo](PROJECT_DEMO_URL)
 
-### 4. Movie Recommendation System — Collaborative Filtering
+### 4. Movie Recommendation System - Collaborative Filtering
 
 Developed a personalized movie recommendation system using the **MovieLens dataset**, containing 100,836 ratings from 610 users.
 
@@ -103,7 +103,7 @@ Developed a personalized movie recommendation system using the **MovieLens datas
 ## 📚 Education
 
 **ENSAI - National School for Statistics and Information Analysis**  
-Engineering Degree | 2024–2027  
+Engineering Degree | 2024-2027  
 Specialization: Data Science - Marketing
 
 **ENEAM - National School of Applied Economics and Management**  
