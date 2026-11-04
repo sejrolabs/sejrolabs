@@ -68,32 +68,35 @@ Built machine learning models to identify fraudulent transactions in a highly im
 
 [View project on GitHub](PROJECT_REPOSITORY_URL) - [Live demo](PROJECT_DEMO_URL)
 
-### 3. Spatial Statistics - Healthcare Access in France
+### 3. NLP Sentiment Analysis — IMDB Movie Reviews
 
-Analyzed consultation rates across **3,273 French municipalities**, using 2019 healthcare data.
+Developed a sentiment analysis pipeline to classify **50,000 IMDB movie reviews** as positive or negative.
 
-- Exploratory and multivariate statistical analysis.
-- Spatial econometrics and spatial modeling.
-- Principal Component Analysis (PCA).
-- Geographical visualization and interpretation of territorial disparities.
+- Text preprocessing and exploratory text analysis.
+- TF-IDF feature extraction.
+- Comparison of traditional machine learning models and transformer-based approaches.
+- Fine-tuning and evaluation of DistilBERT.
+- Performance comparison under computational resource constraints.
+- Achieved **89.77% accuracy with TF-IDF and Logistic Regression**, compared with 86.50% for DistilBERT.
 
-**Technologies :** R, Spatial Statistics, Econometrics, Data Visualization.
+**Technologies :** Python, Pandas, Scikit-learn, NLP, TF-IDF, Hugging Face, DistilBERT.
 
-[View project on GitHub](PROJECT_REPOSITORY_URL) - [Project report](PROJECT_REPORT_URL)
+[View project on GitHub](PROJECT_REPOSITORY_URL) - [Live demo](PROJECT_DEMO_URL)
 
-### 4. Motor Insurance Pricing - Actuarial Data Science
+### 4. Movie Recommendation System — Collaborative Filtering
 
-An ongoing actuarial project focused on building a motor insurance pricing framework using statistical and machine learning methods.
+Developed a personalized movie recommendation system using the **MovieLens dataset**, containing 100,836 ratings from 610 users.
 
-- Frequency and severity modeling.
-- Generalized Linear Models (Poisson, Negative Binomial and Gamma).
-- Comparison with machine learning models.
-- Pure premium estimation, model validation and explainability.
-- Planned interactive application for exploring pricing results.
+- Exploratory analysis of user-item interactions.
+- Collaborative filtering techniques.
+- Matrix factorization using Singular Value Decomposition (SVD).
+- Model evaluation using Root Mean Squared Error (RMSE).
+- Achieved an RMSE of **0.88**, compared with a baseline of 0.99.
+- Interactive recommendation interface built with Streamlit.
 
-**Technologies :** Python, Pandas, Scikit-learn, XGBoost, Streamlit.
+**Technologies :** Python, Pandas, NumPy, Scikit-learn, Collaborative Filtering, SVD, Streamlit.
 
-[View project on GitHub](https://github.com/sejrolabs/motor-insurance-pricing)
+[View project on GitHub](PROJECT_REPOSITORY_URL) - [Live demo](PROJECT_DEMO_URL)
 
 ---
 
