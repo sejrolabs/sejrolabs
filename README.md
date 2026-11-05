@@ -113,7 +113,7 @@ Engineering Degree in Statistics and Economics | 2022-2025
 
 ## 📄 Resume & Contact
 
-- **Resume :** [Download my CV](CV_PDF_URL)
+- **Resume :** [Download my CV](https://github.com/sejrolabs/sejrolabs/blob/main/CV_Toussaint_Boco_2026.pdf)
 - **LinkedIn :** [Connect with me](https://www.linkedin.com/in/toussaint-sejro-boco/)
 - **GitHub :** [Explore my repositories](https://github.com/sejrolabs)
 - **Email :** sejro.boco.labs@gmail.com
